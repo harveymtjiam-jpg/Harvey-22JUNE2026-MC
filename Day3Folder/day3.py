@@ -11,8 +11,8 @@ print(Mytitle + Myname + "ok thanks now " + Mycommand)
 ########################################################################
 # Task 2:
 name="Doug"
-num_pens=(3
-print(name )
+num_pens=3
+print(name + "is buying" + num_pens + "pens today." )
 
 
 
