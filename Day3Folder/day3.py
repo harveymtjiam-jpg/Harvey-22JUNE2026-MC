@@ -12,7 +12,7 @@ print(Mytitle + Myname + "ok thanks now " + Mycommand)
 # Task 2:
 name=("Doug")
 num_pens=(3)
-
+print(name= )
 
 
 
