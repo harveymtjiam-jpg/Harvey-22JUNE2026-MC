@@ -15,7 +15,6 @@ num_pens=3
 print(name + "is buying" + str(num_pens) + "pens today." )
 
 
-
 ########################################################################
 # Task 3:
 
