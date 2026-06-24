@@ -47,7 +47,7 @@ else:
 
 ########################################################################
 # Task 7:
-import random
+import
 diceValue =random.randint(1,11)
 for count in range (10):
     print(diceValue)
