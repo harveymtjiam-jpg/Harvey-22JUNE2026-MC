@@ -26,7 +26,7 @@ print(num1 + num2)
 # Task 4:
 item = int(input("How much bombs are you buying?"))
 cost = 3.50
-print(item )
+print(item * cost)
 ########################################################################
 # Task 5:
 
