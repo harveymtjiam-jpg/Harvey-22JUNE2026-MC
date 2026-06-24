@@ -33,8 +33,8 @@ age1 = int(input("What is person's A age?"))
 age2 = int(input("What is person's B age?"))
 if age1 > age2:
     print("He is older.")
-else 
-    print("")
+else: 
+    print("He is younger.")
 
 ########################################################################
 # Task 6:
