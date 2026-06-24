@@ -57,7 +57,8 @@ for count in range (10):
 import random
 num1 = random.randint(1,100)
 num2 = random.randint(1,100)
-input("What is the sum of the numbers?")
+Answer = input("What is the sum of the numbers?")
+
 
 
 ########################################################################
