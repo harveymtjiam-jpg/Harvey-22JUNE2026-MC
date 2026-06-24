@@ -48,8 +48,8 @@ else:
 ########################################################################
 # Task 7:
 import random
-diceValue =random.randint(1,11)
 for count in range (10):
+    diceValue =random.randint(1,11)
     print(diceValue)
 
 ########################################################################
