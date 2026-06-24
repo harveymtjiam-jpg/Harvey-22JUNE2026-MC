@@ -49,8 +49,9 @@ else:
 # Task 7:
 import random
 diceValue =random.randint(1,11)
-forloo
-
+for count in range (10):
+    
+    print(diceValue)
 
 ########################################################################
 # Task 8:
