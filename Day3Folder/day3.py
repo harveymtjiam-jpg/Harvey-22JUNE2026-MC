@@ -18,7 +18,7 @@ print(name + " is buying" +  str(num_pens) + " pens today." )
 ########################################################################
 # Task 3:
 num1 = int(input("What is your first number?"))
-num2 = input("What is your second number?")
+num2 = int(input("What is your second number?"))
 print(num1 + num2  )
 
 
