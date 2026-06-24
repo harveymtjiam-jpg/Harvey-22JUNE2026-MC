@@ -38,7 +38,7 @@ else:
 
 ########################################################################
 # Task 6:
-password = int(input("What is the passoword?"))
+password = int(input("What is the password?"))
 if password == "Knee Grow":
     print("Correct, you may enter.")
 else:
