@@ -59,7 +59,7 @@ num1 = random.randint(1,100)
 num2 = random.randint(1,100)
 Answer = int(input("What is the sum of" + str(num1) + "and" + str(num2)))
 if num1 + num2 == Answer:
-    print()
+    print("Nerd")
 
 
 ########################################################################
