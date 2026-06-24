@@ -55,8 +55,8 @@ for count in range (10):
 ########################################################################
 # Task 8:
 import random
-diceValue = random.randint(1,100)
-diceValue1 = random.randint(1,100)
+num1 = random.randint(1,100)
+num2 = random.randint(1,100)
 print()
 
 
