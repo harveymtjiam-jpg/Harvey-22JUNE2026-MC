@@ -10,39 +10,39 @@ print("hello from day3")
 # print(Mytitle + Myname + "ok thanks now " + Mycommand)
 ########################################################################
 # Task 2:
-name="Doug"
-num_pens=3
-print(name + " is buying" +  str(num_pens) + " pens today." )
+# name="Doug"
+# num_pens=3
+# print(name + " is buying" +  str(num_pens) + " pens today." )
 
 
 ########################################################################
 # Task 3:
-num1 = int(input("What is your first number?"))
-num2 = int(input("What is your second number?"))
-print(num1 + num2)
+# num1 = int(input("What is your first number?"))
+# num2 = int(input("What is your second number?"))
+# print(num1 + num2)
 
 
 ########################################################################
 # Task 4:
-item = int(input("How much bombs are you buying?"))
-cost = 3.50
-print(item * cost)
+# item = int(input("How much bombs are you buying?"))
+# cost = 3.50
+# print(item * cost)
 ########################################################################
 # Task 5:
-age1 = int(input("What is person's A age?"))
-age2 = int(input("What is person's B age?"))
-if age1 > age2:
-    print("He is older.")
-else: 
-    print("He is younger.")
+# age1 = int(input("What is person's A age?"))
+# age2 = int(input("What is person's B age?"))
+# if age1 > age2:
+#     print("He is older.")
+# else: 
+#     print("He is younger.")
 
 ########################################################################
 # Task 6:
-password = (input("What is the password?"))
-if password == "Knee Grow":
-    print("Correct, you may enter.")
-else:
-    print("Wrong, 20 hour cooldown.")
+# password = (input("What is the password?"))
+# if password == "Knee Grow":
+#     print("Correct, you may enter.")
+# else:
+#     print("Wrong, 20 hour cooldown.")
 
 
 ########################################################################
