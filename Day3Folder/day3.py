@@ -25,7 +25,7 @@ print(num1 + num2)
 ########################################################################
 # Task 4:
 item = int(input("How much bombs are you buying"))
-item = int(input(""))
+item = int(input("It costs 3.50 each"))
 
 ########################################################################
 # Task 5:
