@@ -56,7 +56,8 @@ for count in range (10):
 # Task 8:
 import random
 diceValue = random.randint(1,100)
-diceValue1 = ranodm.randint(1,100)
+diceValue1 = random.randint(1,100)
+    
 
 
 ########################################################################
