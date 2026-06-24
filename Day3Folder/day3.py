@@ -32,8 +32,9 @@ print(item * cost)
 age1 = int(input("What is person's A age?"))
 age2 = int(input("What is person's B age?"))
 if age1 > age2:
-    print()
-
+    print("He is older.")
+else 
+    print("")
 
 ########################################################################
 # Task 6:
