@@ -61,7 +61,7 @@ Answer = int(input("What is the sum of" + str(num1) + "and" + str(num2)))
 if num1 + num2 == Answer:
     print("Nerd")
 else:
-    print("")
+    print("Go to hell dick")
 
 
 ########################################################################
