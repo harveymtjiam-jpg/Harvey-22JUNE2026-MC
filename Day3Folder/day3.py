@@ -38,7 +38,11 @@ else:
 
 ########################################################################
 # Task 6:
-password = int(input(""))
+password = int(input("What is the passoword?"))
+if password == "Knee Grow":
+    print("Correct, you may enter.")
+else:
+    print("Wrong, 20 hour cooldown.")
 
 
 ########################################################################
