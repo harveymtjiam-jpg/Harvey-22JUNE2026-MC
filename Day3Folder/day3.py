@@ -49,13 +49,13 @@ print("hello from day3")
 # Task 7:
 import random
 for count in range (10):
-    diceValue =random.randint(1,11)
+    diceValue = random.randint(1,11)
     print(diceValue)
 
 ########################################################################
 # Task 8:
 import random
-
+diceValue = random
 
 
 ########################################################################
