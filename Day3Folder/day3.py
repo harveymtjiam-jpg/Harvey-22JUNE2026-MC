@@ -17,9 +17,9 @@ print(name + " is buying" +  str(num_pens) + " pens today." )
 
 ########################################################################
 # Task 3:
-num1 = input("24")
+num1 = input("What is your first number?")
 num2 = input("71")
-print(n)
+print(num1 + num2 = )
 
 
 ########################################################################
